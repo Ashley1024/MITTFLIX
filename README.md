@@ -1,5 +1,5 @@
 ![](https://fontmeme.com/permalink/190707/fd4735271a0d997cbe19a04408c896fc.png)
-MITTFLIX is a movie search APP.
+## MITTFLIX is a movie search APP.
 
 To begin, you'll need to clone the app from this [repository](https://github.com/jniziol/mittflix)
 
